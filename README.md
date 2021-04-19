@@ -30,4 +30,4 @@
 </table>
 
 <hr>
-<h4>Click <a href="#">here<a/> to download the App</h4>
+<h4>Click <a href="https://github.com/TheEagerLearner/BMI_Calculator/blob/master/app-debug.apk?raw=true">here<a/> to download the App</h4>
